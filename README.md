@@ -1,4 +1,3 @@
 # Memorii Website
 
-As seen on http://www.studioamanga.com/memorii/
-
+As seen on https://www.studioamanga.com/memorii/
