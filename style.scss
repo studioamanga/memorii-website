@@ -90,8 +90,8 @@ header {
 
 section.main {
   max-width: $max-width;
-  margin: 0 auto 0 auto;
-  padding: 0 $margin-default;
+  margin: 0 auto;
+  padding: 0 $margin-default $margin-default $margin-default;
   text-align: left;
   line-height: 1.5em;
   font-size: 1.6em;
@@ -101,7 +101,6 @@ section.main {
   }
 
   .download {
-    margin-top: $margin-big;
     text-align: center;
 
     img {
@@ -112,6 +111,15 @@ section.main {
 
   a {
     color: var(--text-color);
+  }
+}
+
+.screenshots {
+  margin: $margin-default 0;
+
+  img {
+    width: 260px;
+    margin: 10px;
   }
 }
 

@@ -74,8 +74,8 @@ header .showcase {
 
 section.main {
   max-width: 800px;
-  margin: 0 auto 0 auto;
-  padding: 0 20px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
   text-align: left;
   line-height: 1.5em;
   font-size: 1.6em;
@@ -84,7 +84,6 @@ section.main .tagline {
   font-weight: bold;
 }
 section.main .download {
-  margin-top: 40px;
   text-align: center;
 }
 section.main .download img {
@@ -93,6 +92,14 @@ section.main .download img {
 }
 section.main a {
   color: var(--text-color);
+}
+
+.screenshots {
+  margin: 20px 0;
+}
+.screenshots img {
+  width: 260px;
+  margin: 10px;
 }
 
 footer {
