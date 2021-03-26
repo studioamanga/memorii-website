@@ -8,3 +8,7 @@ all:
 	
 watch:
 	sass --watch style.scss:style.css
+
+v4:
+	haml -f html5 index.html.haml v4.html
+	sass --watch style.scss:style-v4.css
