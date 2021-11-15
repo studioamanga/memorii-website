@@ -1,8 +1,8 @@
 all:
 	haml -f html5 index.html.haml index.html
 	sass style.scss:style.css
-	git -C ../../../Projects/Memorii/ pull
-	cp ../../../Projects/Memorii/releasenotes.html .
+	git -C ~/Developer/Memorii/ pull
+	cp ~/Developer/Memorii/releasenotes.html .
 	open .
 	open /Applications/Cyberduck.app
 	
