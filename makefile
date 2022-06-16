@@ -3,6 +3,7 @@ all:
 	sass style.scss:style.css
 	git -C ~/Developer/Memorii/ pull
 	cp ~/Developer/Memorii/releasenotes.html .
+	cp ~/Developer/Memorii/releasenotes.json .
 	open .
 	open /Applications/Cyberduck.app
 	
