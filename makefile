@@ -4,6 +4,7 @@ all:
 	git -C ~/Developer/Memorii/ pull
 	cp ~/Developer/Memorii/releasenotes.html .
 	cp ~/Developer/Memorii/releasenotes.json .
+	cp ~/Developer/Memorii/releasenotes.xml .
 	open .
 	open /Applications/Cyberduck.app
 	
