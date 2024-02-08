@@ -7,6 +7,12 @@
     <generator>Trackup</generator>
     <atom:link href="https://www.studioamanga.com/memorii/releasenotes.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>4.3.1</title>
+      <description>• Add contextual menu item to open folder new window</description>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+      <guid>https://www.studioamanga.com/memorii/4.3.1</guid>
+    </item>
+    <item>
       <title>4.3</title>
       <description>• visionOS app</description>
       <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
